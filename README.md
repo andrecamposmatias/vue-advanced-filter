@@ -1,4 +1,4 @@
-# vue-filter
+# vue-advanced-filter
 
 ## Project setup
 ```
